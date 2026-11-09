@@ -1,0 +1,7 @@
+node_modules/
+dist/
+releases/*.vsix
+*.log
+.DS_Store
+.env*
+.test-output/

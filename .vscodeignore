@@ -1,0 +1,7 @@
+**
+!package.json
+!README.md
+!LICENSE
+!dist/extension.cjs
+!dist/panel.js
+!dist/panel.css
